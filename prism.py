@@ -6,8 +6,8 @@ import cv2
 
 packetCount = 0
 PCAP = 'results.pcap'
-PIC_DIR = '/home/kybermulk/Pictures/'
-FACES_DIR = '/home/kybermulk/Pictures/faces'
+PIC_DIR = '/home/user/Pictures/'
+FACES_DIR = '/home/user/Pictures/faces'
 
 # ask input from user
 try:
